@@ -7,4 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.10 (Work Images)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="requirements_Поворот_Перспектива.txt" />
+  </component>
 </module>
